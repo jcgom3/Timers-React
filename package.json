@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## This is a simple React app for a count down and a stopwatch.",
+  "main": "index.html",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcgom3/Timers-React.git"
+  },
+  "author": "Juan Carlos Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcgom3/Timers-React/issues"
+  },
+  "homepage": "https://github.com/jcgom3/Timers-React#readme"
 }
