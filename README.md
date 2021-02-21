@@ -11,6 +11,8 @@
 
 ## This is made for practice purposes.
 
+* This app does not use hooks.
+
 ## Deployed application
 
 [Click here to check out my app](https://jcgom3.github.io/Timers-React/)
